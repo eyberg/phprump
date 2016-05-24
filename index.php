@@ -8,9 +8,8 @@ Hello, <?php echo $_SERVER['REMOTE_ADDR']; ?>
 It is now <?php echo date(DATE_RFC2822); ?>
 <p>
 Served to you by
-<a href="http://nginx.org/">Nginx</a>,
-running on a
-<a href="http://rumpkernel.org">rump kernel</a>...
+<img src="https://173.255.118.47/img/logo.svg"/>
+
 <p>
 Try <a href="phpinfo.php">phpinfo()</a>.
 </body>
