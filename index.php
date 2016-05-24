@@ -8,7 +8,7 @@ Hello, <?php echo $_SERVER['REMOTE_ADDR']; ?>
 It is now <?php echo date(DATE_RFC2822); ?>
 <p>
 Served to you by
-<img src="https://173.255.118.47/img/logo.svg"/>
+<img src="http://204.12.231.130/img/logo.svg"/>
 
 <p>
 Try <a href="phpinfo.php">phpinfo()</a>.
